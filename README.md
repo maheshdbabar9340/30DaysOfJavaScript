@@ -6,7 +6,7 @@ Repo containing all the projects made in 30 Days while completing the <b>30 Days
 
 <pre><center><a href="https://30daysofjs.netlify.app/"><b>30daysofjs.netlify.app</b></a></center></pre>
 
-| Day |                                                Name                                                 |
+| Day |                                                      Name                                                 |
 | --- | :-------------------------------------------------------------------------------------------------: |
 | 1   |                   [Drum Kit](https://30daysofjs.netlify.app/01%20-%20drum%20kit/)                   |
 | 2   |                       [Clock](https://30daysofjs.netlify.app/02%20-%20clock/)                       |
@@ -61,9 +61,16 @@ Repo containing all the projects made in 30 Days while completing the <b>30 Days
 | 46  |             [Image Slider](https://30daysofjs.netlify.app/40%20-%20gradient%20generator/)             |
 | 47  |       [Caesar Cipher](https://30daysofjs.netlify.app/47%20-%20caesar%20cipher/2_caesar_cipher)        |
 | 48  |       [Attendance Table](https://30daysofjs.netlify.app/48%20-%20attendance%20table/)        |
-    
 
-## Our valuable Contributor :
+## Contributing
+
+Before making any contribution, big or small, Contributors are advised to go through the [Contributing Guidelines](./CONTRIBUTING.md). 
+
+## Code of Conduct
+
+To maintain a safe and inclusive space for everyone to learn and grow, contributors are advised to follow the [Code of Conduct](./CODE_OF_CONDUCT.md). 
+
+## Our valuable Contributors
 
 <a href="https://github.com/swapnilsparsh/30DaysOfJavaScript/graphs/contributors">
   <img src="https://contributors-img.web.app/image?repo=swapnilsparsh/30DaysOfJavaScript" />
